@@ -9,5 +9,5 @@ int main() {
 	cout << "" << a + b << std::endl;
 	cout << "Ovo je izlaz" << std::endl;
 	std::cout << "Ispis" << std::endl;
-	return 0;
+	return 0; 
 }
