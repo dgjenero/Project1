@@ -8,5 +8,6 @@ int main() {
 	int c = 3;
 	cout << "" << a + b << std::endl;
 	cout << "Ovo je izlaz" << std::endl;
+	std::cout << "Ispis" << std::endl;
 	return 0;
 }
